@@ -1,0 +1,2 @@
+NanoNotes.txt
+Possibly store how much our position changed by between turns and use that to calc dist from enemy to us using relative coords (enemy pos is only ever stored as relative, that way)
